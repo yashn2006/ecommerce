@@ -1,0 +1,8 @@
+{
+  "name": "Maison Léon — Fine Perfumery",
+  "description": "Artisanal small-batch Eau de Parfum and Extrait de Parfum storefront crafted in Grasse.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
